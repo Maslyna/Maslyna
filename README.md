@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align = "center"> Hi there 👋, my name is Michael</h1> 
+<h3 align = "center">I am a person who is very much interested in computer sience and programming.</h2>
 
-<!--
-**Maslyna/Maslyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm working on this project right now: [ProvedCode](https://github.com/ProvedCode/backend/tree/dev).
+- 🌱 I’m currently learning *Java*, *Spring Frameworks*, *Docker*, *PostgreSQL*.
+- ⚡ My hobbies: computer/board games, sport.
+- ✨ My skills:
+  - Java Core;
+  - Maven;
+  - PostgreSQL/MySQL;
+  - JPA/Hibernate;
+  - JDBC;
+  - Spring Framework.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- [Email](mailto:mykhailo.ordyntsev@nure.ua?subject=We%20are%20ready%20to%20hire%20you%20*company%20name*)
+- [Linkedin](https://www.linkedin.com/in/ordyntsev-mykhailo/)
