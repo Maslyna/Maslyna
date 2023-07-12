@@ -1,5 +1,5 @@
-<h1 align = "center"> Hi there 👋, my name is Michael</h1> 
-<h3 align = "center">I am a person who is very much interested in computer sience and programming.</h2>
+<h1 align = "center"> Hi there 👋, my name is Miha-pidarasl</h1> 
+<h3 align = "center">I am a pidaras and that's all you should know.</h2>
 
 - 🔭 I'm working on this project right now: [ProvedCode](https://github.com/ProvedCode/backend/tree/dev).
 - 🌱 I’m currently learning *Java*, *Spring Frameworks*, *Docker*, *PostgreSQL*.
