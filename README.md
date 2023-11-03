@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there 👋, my name is Michael</h1> 
 <h3 align = "center">I am a person who is very much interested in computer sience and programming.</h2>
 
-- 🔭 I'm working on this project right now: [ProvedCode](https://github.com/ProvedCode/backend/tree/dev).
+- 🔭 I'm working on this project right now: [social-network-clone-back-end](https://github.com/Maslyna/social-network-clone-backend).
 - 🌱 I’m currently learning *Java*, *Spring Frameworks*, *Docker*, *PostgreSQL*.
 - ⚡ My hobbies: computer/board games, sport.
 - ✨ My skills:
