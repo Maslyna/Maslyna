@@ -20,5 +20,5 @@
 ---
 
 ### Connect with me:
-- [mykhailo.ordyntsev@nure.ua](mailto:mykhailo.ordyntsev@nure.ua)
+- [mykhailo.ordyntsev@gmail.com](mailto:mykhailo.ordyntsev@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/ordyntsev-mykhailo/)
